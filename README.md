@@ -1,4 +1,5 @@
-GeoShaderNodes_IE is a Blender extension. This extension allows users to export blocks of nodes from both Geometry Nodes and Shader Nodes, so they can be reused in other projects.
+GeoShaderNodes_IE is a Blender extension. 
+This extension allows users to export blocks of nodes from both Geometry Nodes and Shader Nodes, so they can be reused in other projects.
 
 ## How to use the add-on:
 After installing the extension, choose the folder where you want the nodes to be saved. By default, this is set to your desktop.
