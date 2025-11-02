@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "GeoShaderNodes_IE"
+version = "1.0.0"
+name = "GeoShaderNodes_IE"
+tagline = "Import-Export Block of nodes from Geometry npde and shader"
+maintainer = "David Savini (code GPT)"
+
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
