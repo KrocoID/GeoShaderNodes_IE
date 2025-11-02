@@ -12,3 +12,5 @@ All saved nodes will be stored in the same .txt file.
 After that, you'll be able to import the different node groups whenever you need them.
 
 The shader version is identical.
+
+🧪 Note: This add-on has been tested. The only limitation found so far is that "Value" nodes are reset to zero when exported and re-imported.
